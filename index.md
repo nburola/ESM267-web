@@ -1,4 +1,5 @@
-<p>ESM 267 Assignment 2: Channel Islands Marine Protected Areas (MPAs)</p>
+<p>ESM 267: Advanced GIS
+   Assignment 2: Channel Islands Marine Protected Areas (MPAs)</p>
 
 <iframe
     marginheight=0
