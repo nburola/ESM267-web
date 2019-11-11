@@ -1,12 +1,42 @@
-<p>ESM 267: Advanced GIS
-   Assignment 2: Channel Islands Marine Protected Areas (MPAs)</p>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+text-align: center;
+}
+iframe {
+	display:block;
+}
+</style>
+</head>
+<body>
 
+<h1>Channel Islands Marine Protected Areas (MPAs) </h1>
+<h2>Nathaniel Burola </h2>
+<h3>ESM 267 Assignment #2 </h3>
+<h4>Oil and gas wells in the southern California area including the Channel Islands Sanctuary </h4>
+<h5>Existing MPAs that existed in 2005 had additional plans to expand in 2006 </h6>
+
+</body>
+</html>
+<p align="center">
 <iframe
     marginheight=0
     marginwidth=0
     scrolling=no
 
-    height=1326
-    width=1224
+    height=400
+    width=400
     src="qgis2web/index.html">
-</iframe>
+</iframe> 
+</p>
